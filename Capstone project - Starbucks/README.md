@@ -17,6 +17,8 @@ Directories:
 
 
 
+* _Starbucks Challenge - project report.pdf_ : Project report with further explanations
+
 ### Instructions
 
 The user should just open the scripts and execute them. No further actions should be necessary.
